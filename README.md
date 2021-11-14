@@ -15,6 +15,6 @@ index.ejs contains the form for getting new links as well as list of previously 
 
 Instead of writing own css we use bootstrap cdn to provide some basic styling.
 
-Models folder contains shortUrl.js contains the initial url shortened url and no of clicks column values.
+Models folder contains shortUrl.js containing the initial url,shortened url and no of clicks column values.
 
 shortid library generates the shortened links which is included in the above shorturl.js.
